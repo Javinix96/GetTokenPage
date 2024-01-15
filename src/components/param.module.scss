@@ -1,0 +1,49 @@
+.boxValue {
+  background-color: rgb(182, 182, 182);
+  height: 50px;
+  width: 95%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin: auto;
+  // border: 0.5px solid;
+  display: flex;
+  margin: 0;
+  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
+  justify-content: space-around;
+
+  p {
+    text-align: center;
+    flex: 45;
+    width: 65%;
+    font-size: 22px;
+    // justify-content: center;
+    align-content: center;
+  }
+
+  button {
+    height: 36px;
+    width: 36px;
+    flex: 2;
+    text-align: center;
+    background-color: rgb(168, 168, 168);
+    border-radius: 10px;
+    padding: 1;
+    border: 0;
+    margin-right: 3px;
+    margin-left: 5px;
+  }
+  button:hover {
+    background-color: rgb(92, 92, 92);
+  }
+}
+
+.boxValue div {
+  flex: 10;
+}
+
+.title {
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GetTokenPage/static/css/main.33d26725.css",
+    "main.js": "/GetTokenPage/static/js/main.94978e3c.js",
+    "index.html": "/GetTokenPage/index.html",
+    "main.33d26725.css.map": "/GetTokenPage/static/css/main.33d26725.css.map",
+    "main.94978e3c.js.map": "/GetTokenPage/static/js/main.94978e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d26725.css",
+    "static/js/main.94978e3c.js"
+  ]
+}

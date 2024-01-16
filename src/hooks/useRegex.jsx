@@ -48,7 +48,7 @@ export const useRegex = (word = "") => {
     });
 
     await myPromise.then(function () {
-      // window.close();
+      window.close();
     });
   }
   save();
